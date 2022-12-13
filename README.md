@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreehas
-- 👀 I’m interested in competitive programming ,app development
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in competitive programming ,machine learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on competitive programming
 - 📫 How to reach me jssreehas2@gmail.com
 Lcs2021040@iiitl.ac.in
